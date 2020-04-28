@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Ben,
 
 Some of your amazing content contributions made it through Zest’s
 quality screening.\
@@ -21,7 +21,4 @@ Share
 You’re on the Zest feed and doing really well. \
  Keep on zesting and spreading the yellow love \<3
 
-Have a good lemony one, \
- {{sender\_first\_name}}
-
-{{signature}}
+Have a good lemony one,
