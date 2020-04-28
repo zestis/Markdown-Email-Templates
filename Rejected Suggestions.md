@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Sam,
 
 You made a tremendous effort, I know.
 
@@ -19,7 +19,4 @@ Keep on pushing hard, the community can feel your waves! \
 
 Feel free to ask about your contributions, I am here to help:)
 
-Have a smashing yellow day, \
- {{sender\_first\_name}}
-
-{{signature}}
+Have a smashing yellow day,
