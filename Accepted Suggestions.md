@@ -8,11 +8,9 @@ Your suggested content was accepted by the Zest tribe members who
 reviewed it!!! \
 Here are the details:
 
-Title
-
-Publish Time
-
-{{rows}}
+| Title                                                                                                                       	| Publish Time            	|
+|-----------------------------------------------------------------------------------------------------------------------------	|-------------------------	|
+| [Product Design - Expectation vs Reality](https://click.zest.is/zst.5e938f9d24d24?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM) 	| April 20, 2020 10:00 pm 	|
 
 You can boost your approved content to get 10x more engagement. \
 🚀 [Give it a
