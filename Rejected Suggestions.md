@@ -4,15 +4,13 @@ You made a tremendous effort, I know.
 
 But, your content was not the right fit for the tribe. Here’s why:
 
-Title
-
-Reject Reason
+| Title                                                                                                                       	| Reject Reason                                                                                                      	|
+|-----------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------	|
+| [Product Design - Expectation vs Reality](https://click.zest.is/zst.5e938f9d24d24?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM) 	| Good taste! This link was already suggested by another Zester. Your success score won't be affected, no worries :) 	|
 
 {{rows}}
 
 Don’t worry, it happens to the best lemons out there.
-
-{{domains}}
 
 Keep on pushing hard, the community can feel your waves! \
  ![](https://media.giphy.com/media/bgv4OvHBEbBQc/giphy.gif)
