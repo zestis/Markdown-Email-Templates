@@ -1,4 +1,4 @@
-Heeey {{name}},
+Heeey Karolis,
 
 Make yourself at home, ‘cause you’re among fellow Zesters now.
 
