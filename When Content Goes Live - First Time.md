@@ -5,7 +5,7 @@ Did \
 It \
 !
 
-Your very first contribution [“{{article}}”]({{domain}}) is now LIVE on
+Your very first contribution ["Breaking Down Customer Obsession In Business"](https://fourweekmba.com/customer-obsession/?utm_source=zest.is&utm_medium=referral&utm_campaign=content-boost) is now LIVE on
 Zest!!!
 
 ![](https://media.giphy.com/media/W9G8OK82R3dfO/giphy.gif)
