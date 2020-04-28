@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Mark,
 
 The content you shared on Zest, [{{article\_title}}]({{article_link}}),
 helped [{{sender\_name}}]({{sender_link}}) become more knowledgeable so
@@ -15,5 +15,3 @@ Yam
 P.S. You can thank other contributors on the [Zest mobile
 app](http://zest.is/get-app?utm_source=email%26utm_medium=contr-thank),
 too!
-
-{{signature}}
