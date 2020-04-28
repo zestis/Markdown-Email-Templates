@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Ben,
 
 Your contributed content is pending review but rest assured that the
 machines will soon start crunching through these:
@@ -16,7 +16,4 @@ app.](https://zest.is/apps?utm_source%3Demail%26utm_campaign%3Dcontr_status_pend
 
 You’re the best!
 
-Have a creative yellow day, \
- {{sender\_first\_name}}
-
-{{signature}}
+Have a creative yellow day,
