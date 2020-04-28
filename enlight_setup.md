@@ -1,4 +1,4 @@
-Heya {{name}},
+Heya Karolis,
 
 So happy you’re joining Zest:)
 
@@ -20,7 +20,4 @@ meet new people ;)
 
 You’ll find more smart marketers to follow in the App 👊
 
-Stay awesome,\
-Yam
-
-{{signature}}
+Stay awesome,
