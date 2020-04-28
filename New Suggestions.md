@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Ben,
 
 {{open\_line}} now being reviewed.
 
@@ -12,7 +12,4 @@ Can you share [this
 link](https://zest.is/contribute-content?utm_source%3Demail%26utm_medium%3Dnew-contribution)
 with two more colleagues of yours? It would be very helpful.
 
-Lemony love, \
-Yam
-
-{{signature}}
+Lemony love,
