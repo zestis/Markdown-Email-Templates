@@ -3,7 +3,7 @@ Hey Ben,
 You just keep surprising us, don’t you?
 
 It’s time to give you something back as your third contribution
-[“{{article}}”]({{domain}}) is now LIVE on Zest;)
+[Product Design - Expectation vs Reality](https://click.zest.is/zst.5e938f9d24d24?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM) is now LIVE on Zest;)
 
 ![](https://media.giphy.com/media/yDhi2BPhFFRnO/giphy.gif)
 
