@@ -1,4 +1,4 @@
-What’s up, {{name}}?
+What’s up, John?
 
 If there was a casino called Zest you would be the jackpot winner 🤗
 
@@ -21,7 +21,4 @@ Boost](https://zest.is/content-boost?utm_source=email%26utm_medium=all-accepted)
 Please keep on suggesting more great content and spreading the Zest love
 \<3
 
-Have a lemony-great day, \
-{{sender\_first\_name}}
-
-{{signature}}
+Have a lemony-great day,
