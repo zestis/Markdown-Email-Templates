@@ -8,7 +8,7 @@ The templates included are:
 
 1. New suggestions
 2. Pending suggestions
-3. Accepted suggestions
+3. Accepted suggestions: https://github.com/zestis/Markdown-Email-Templates/blob/master/Accepted%20Suggestions.md
 4. Mixed suggestions
 5. Rejected suggestions
 6. Thank contributors
