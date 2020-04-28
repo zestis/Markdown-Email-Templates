@@ -1,7 +1,7 @@
 Hey Mark,
 
-The content you shared on Zest, [{{article\_title}}]({{article_link}}),
-helped [{{sender\_name}}]({{sender_link}}) become more knowledgeable so
+The content you shared on Zest, [Breaking Down Customer Obsession in Business](https://fourweekmba.com/customer-obsession/?utm_source=zest.is&utm_medium=referral&utm_campaign=content-boost),
+helped [Karolis Vanagas](https://distilled.zest.is/zester/karolis-vanagas) become more knowledgeable so
 they wanted to say thanks.
 
 Keep sharing your best marketing content on Zest and be sure to check
