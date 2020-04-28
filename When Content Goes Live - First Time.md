@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Ben,
 
 You \
 Did \
@@ -19,7 +19,4 @@ exposure
 
 Can’t wait to see more of your knowledge on the content stream!
 
-Stay awesome, \
-Yam
-
-{{signature}}
+Stay awesome,
