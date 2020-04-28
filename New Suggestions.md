@@ -1,6 +1,6 @@
 Hey Ben,
 
-{{open\_line}} now being reviewed.
+["Breaking Down Customer Obsession In Business"](https://fourweekmba.com/customer-obsession/?utm_source=zest.is&utm_medium=referral&utm_campaign=content-boost) now being reviewed.
 
 You can track your content status in real-time on the [Zest mobile
 app.](https://links.zest.is/contribute)
