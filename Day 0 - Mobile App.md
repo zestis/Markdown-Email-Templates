@@ -4,9 +4,9 @@ So happy you’re joining Zest:)
 
 Here are the details of your personalized learning path:
 
--   {{pieces\_of\_content}} pieces of content
--   {{number\_tags}} marketing tags
--   Delivered at {{time}}, {{days}} days a week
+-  6 pieces of content
+-  4 marketing tags
+-  Delivered at 8:00, 7 days a week
 
 Also, follow [{{target.name}},
 {{target.headline}}](https://distilled.zest.is/zester/{{target.alias}})
