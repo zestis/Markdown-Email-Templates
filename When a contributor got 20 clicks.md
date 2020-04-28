@@ -1,4 +1,4 @@
-Hope you are doing well, {{name}},
+Hope you are doing well, Frank,
 
 You just turned 20!
 
@@ -16,7 +16,4 @@ While you are hot, I’d suggest to either:
 2.  [Contribute](https://zest.is/contribute-content) another piece of
     valuable content
 
-Stay yellowsome, \
-Yam
-
-{{signature}}
+Stay yellowsome,
