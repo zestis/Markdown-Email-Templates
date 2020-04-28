@@ -6,7 +6,7 @@ In fact, you are 95% equipped to take your marketing knowledge to a new
 level. To fully take off, knock on knowledge’s door by searching for
 what you need the most.
 
-Tap on a popular search query for {{tags}} to start:
+Tap on a popular search query for Automation to start:
 
 {{keywords}}
 
