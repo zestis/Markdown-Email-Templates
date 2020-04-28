@@ -1,4 +1,4 @@
-Heya {{name}},
+Heya Idan,
 
 Can you feel it? \
 You are standing on the yellow podium as a Zest Top Contributor of the
@@ -24,7 +24,4 @@ Because Zest is about creating and sharing pro-level content, it would
 be terrific to learn more about **how you create unique, high-quality
 content** that surfaces above the information overload noise.
 
-Keep winning, \
-Yam
-
-{{signature}}
+Keep winning,
