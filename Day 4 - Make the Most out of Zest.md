@@ -1,4 +1,4 @@
-Hey {{name}},
+Hey Karolis,
 
 I see that the tribe is so proud of you! You’ve been amazing this week.
 
@@ -14,7 +14,4 @@ Tap on a popular search query for {{tags}} to start:
 
 Can’t help but smile to see you grow ;)
 
-Tons of lemon love,\
-Yam
-
-{{signature}}
+Tons of lemon love,
