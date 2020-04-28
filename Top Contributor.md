@@ -4,7 +4,7 @@ Can you feel it? \
 You are standing on the yellow podium as a Zest Top Contributor of the
 week!
 
-It took {{total\_suggestions}} accepted suggestions and 1 awesome Zester
+It took 4 accepted suggestions and 1 awesome Zester
 (you) to make it happen!
 
 Share the news with your friends, you legend!
