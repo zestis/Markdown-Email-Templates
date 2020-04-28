@@ -11,7 +11,4 @@ So, the absofreakinlutely BEST thing you could do now is go ahead and
 content](http://zest.is/contribute-content) you think the rest of the
 tribe should see.
 
-Good lemony vibes, \
- Yam
-
-{{signature}}
+Good lemony vibes,
