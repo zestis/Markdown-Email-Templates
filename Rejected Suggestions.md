@@ -8,8 +8,6 @@ But, your content was not the right fit for the tribe. Here’s why:
 |-----------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------	|
 | [Product Design - Expectation vs Reality](https://click.zest.is/zst.5e938f9d24d24?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM) 	| Good taste! This link was already suggested by another Zester. Your success score won't be affected, no worries :) 	|
 
-{{rows}}
-
 Don’t worry, it happens to the best lemons out there.
 
 Keep on pushing hard, the community can feel your waves! \
