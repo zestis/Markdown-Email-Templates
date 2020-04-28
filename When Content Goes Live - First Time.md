@@ -8,7 +8,7 @@ It \
 Your very first contribution ["Breaking Down Customer Obsession In Business"](https://fourweekmba.com/customer-obsession/?utm_source=zest.is&utm_medium=referral&utm_campaign=content-boost) is now LIVE on
 Zest!!!
 
-![](https://media.giphy.com/media/W9G8OK82R3dfO/giphy.gif)
+![Alt Text](https://media.giphy.com/media/d2Z4rTi11c9LRita/giphy.gif)
 
 The Zesteam is taking this precious moment to celebrate and pop
 champagne limoncello bottles for you too :)
