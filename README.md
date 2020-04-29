@@ -16,7 +16,7 @@ The templates included are:
 8. [When content goes live (2nd / 3rd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20Content%20Goes%20Live%20-%20Second%20Time.md)
 9. [Day 0 - extension](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Extension.md)
 10. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Mobile%20App.md)
-11. [When content goes live (3rd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20Content%20Goes%20Live%20-%20Third%20Time)
+11. [When content goes live (3rd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20Content%20Goes%20Live%20-%20Third%20Time.md)
 12. [When a contributor got 20 clicks](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20contributor%20got%2020%20clicks.md)
 
 
