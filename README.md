@@ -28,6 +28,7 @@ The templates included are:
 20. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reset%20password%20email.md)
 21. [Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/Newsletter%20signup.md)
 22. [Friend invite email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Friend%20invite%20email.md)
+23. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/Mobile%20app%20download.md)
 
 
 If you have any questions, reach out to us:
