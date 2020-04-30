@@ -10,7 +10,7 @@ Here is a quick overview of your current campaign “Holiday Campaign”:
 
 Visit Dashboard
 
-Or copy this link to access the page:
+Or copy this link to access the page: https://zest.is
 
 How do you find the campaign so far?
 
