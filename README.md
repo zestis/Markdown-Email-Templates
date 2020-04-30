@@ -36,6 +36,7 @@ The templates included are:
 28. [Weekly newsletter](https://github.com/zestis/Markdown-Email-Templates/blob/master/Weekly%20Newsletter.md)
 29. [Friend invite email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Friend%20invite%20email.md)
 30. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/Mobile%20app%20download.md)
+31. [Daily email intro](https://github.com/zestis/Markdown-Email-Templates/blob/master/Daily%20email%20intro.md)
 
 
 If you have any questions, reach out to us:
