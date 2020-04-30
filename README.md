@@ -27,7 +27,7 @@ The templates included are:
 19. [Content boost signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/Content%20boost%20signup.md)
 20. [Campaign created email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Campaign%20created%20email.md)
 21. [When a boost campaign goes live](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20goes%20live.md)
-22. [When a boost campaign finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20finished)
+22. [When a boost campaign finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20finished.md)
 23. [Invite to Dashboard](https://github.com/zestis/Markdown-Email-Templates/blob/master/Invite%20to%20Dashboard.md)
 24. [Reporting Email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reporting%20Email.md)
 25. [When a sponsorship finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20sponsorship%20finished.md)
