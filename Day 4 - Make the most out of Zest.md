@@ -1,4 +1,4 @@
-Hey Ben
+Hey Ben,
 
 I see that the tribe is so proud of you! You’ve been amazing this week.
 
