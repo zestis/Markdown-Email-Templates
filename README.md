@@ -17,7 +17,7 @@ The templates are broken into 5 categories, as displayed below.
 8. [Struggling contributor](https://github.com/zestis/Markdown-Email-Templates/blob/master/Struggling%20contributor.md)
 9. [Churner feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/Churner%20feedback.md)
 10. [When content goes live (1st time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20Content%20Goes%20Live%20-%20First%20Time.md)
-11. [When content goes live (2nd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20Content%20Goes%20Live%20-%20Second%20Time.md)
+11. [When content goes live (2nd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/When%20Content%20Goes%20Live%20-%20Third%20Time.md)
 12. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/Mobile%20app%20download.md)
 13. [Friend invite email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Friend%20invite%20email.md)
 
