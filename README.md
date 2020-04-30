@@ -22,7 +22,7 @@ The templates included are:
 14. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Mobile%20App.md)
 15. [Day 1 - Contribution encouragement](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%201%20-%20Contribution%20Encouragement.md)
 16. [Day 4 - Make the most out of Zest](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%204%20-%20Make%20the%20most%20out%20of%20Zest.md)
-17. [Day 9 - give feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%209%20-%20give%20feedback)
+17. [Day 9 - give feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%209%20-%20give%20feedback.md)
 18. [When a contributor got 20 clicks](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20contributor%20got%2020%20clicks.md)
 19. [Content boost signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/Content%20boost%20signup.md)
 20. [Campaign created email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Campaign%20created%20email.md)
