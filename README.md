@@ -19,7 +19,7 @@ The templates included are:
 11. [Day 0 - extension](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Extension.md)
 12. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Mobile%20App.md)
 13. [When a contributor got 20 clicks](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20contributor%20got%2020%20clicks.md)
-
+14. [When a boost campaign goes live](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20goes%20live.md)
 
 If you have any questions, reach out to us:
 karolis@zest.is
