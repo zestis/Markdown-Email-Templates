@@ -1,6 +1,6 @@
 Hey Dan,
 
-Your boost campaign for [“{{article\_title}}”]({{article_link}}) is now
+Your boost campaign for "[Product Design - Expectation vs Reality]"(https://click.zest.is/zst.5e938f9d24d24?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM) is now
 **LIVE** on Zest.
 
 Why don’t you [contribute other
