@@ -17,8 +17,9 @@ You can help fellow marketers learn by doing this:
     here](http://zest.is/contribute-content/?utm_source%3Demail%26utm_medium%3Dtraining)
     and press ‘Suggest Content’
     
-![share-screen-cast]({{gif}})
+![Alt Text](https://media.giphy.com/media/DNo7FPvEXeUucsjSnO/giphy.gif)
 
+    
 You will receive an instant status update on your app :)
 
 Can’t wait to see you among the greats! 🥇
