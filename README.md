@@ -22,6 +22,9 @@ The templates included are:
 14. [When a boost campaign goes live](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20goes%20live.md)
 15. [When a boost campaign finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20finished)
 16. [Invite to Dashboard](https://github.com/zestis/Markdown-Email-Templates/blob/master/Invite%20to%20Dashboard.md)
+17. [Reporting Email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reporting%20Email.md)
+
+
 
 
 If you have any questions, reach out to us:
