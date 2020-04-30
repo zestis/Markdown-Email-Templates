@@ -3,23 +3,21 @@ Hi John,
 Here’s your personalized selection of knowledge-building content fresh from the Zest community:
 
 
--   [Article]  
-    9 min read, Tags: SEO
-    
--   [Article]  
-    10 min read, Tags: Strategy
+-   [Google Vs. Amazon: The Latest Move For World Domination](https://click.zest.is/zst.5eaa072d41920?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM)  
+    9 min read, Tags: eCommerce
     
 
 A marketer you follow on Zest shared this quality piece:
 
--   [Article]  
-    Suggested by [#Full_NAME], [#LI_TITLE]. Tags: Social
+-  [How to Reduce Churn Rate with this Simple Strategy](https://click.zest.is/zst.5df13ced56674?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM)
+    10 min read, Tags: Strategy
+    Suggested by [Karolis Vanagas](https://distilled.zest.is/zester/karolis-vanagas), Product Manager at Zest.is. Tags: Strategy
     
 
 Have time to catch up on this piece that you saved?
 
--   [Article]  
-    Tags: Social
+-   [What is the value of Content Marketing in uncertain times?](https://click.zest.is/zst.5ea996ad40d06?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM)
+    Tags: Content
     
 
 This is a big week for all Zesters!
