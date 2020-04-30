@@ -23,7 +23,9 @@ The templates included are:
 15. [When a boost campaign finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20finished)
 16. [Invite to Dashboard](https://github.com/zestis/Markdown-Email-Templates/blob/master/Invite%20to%20Dashboard.md)
 17. [Reporting Email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reporting%20Email.md)
-17. [When a sponsorship finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20sponsorship%20finished.md)
+18. [When a sponsorship finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20sponsorship%20finished.md)
+19. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reset%20password%20email.md)
+
 
 
 If you have any questions, reach out to us:
