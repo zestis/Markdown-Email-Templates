@@ -13,4 +13,3 @@ Help fellow marketers learn by [contributing your content finds here.](http://ze
 You make me proud to be part of this tribe;)
 
 Lemony best,
-Yam
