@@ -8,9 +8,8 @@ what you need the most.
 
 Tap on a popular search query for eCommerce to start:
 
-
-
-![search-screen-cast]({{gif}})
+Dropshipping
+Shopify
 
 Can’t help but smile to see you grow ;)
 
