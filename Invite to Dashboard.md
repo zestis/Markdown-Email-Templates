@@ -7,7 +7,7 @@ Head over to your own custom campaign dashboard for more information.
 
 Visit Dashboard
 
-Or copy this link to access the page: {{https://zest.is}}
+Or copy this link to access the page: https://zest.is
 
 Exciting times,
 
