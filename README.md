@@ -6,7 +6,7 @@ In this repository you will find 31 of Zest's award-winning email templates in M
 
 The templates are broken into 5 categories, as displayed below.
 
-Contributor Emails:
+**Contributor Emails:**
 1. [New suggestions](https://github.com/zestis/Markdown-Email-Templates/blob/master/New%20Suggestions.md)
 2. [Pending suggestions](https://github.com/zestis/Markdown-Email-Templates/blob/master/Pending%20Suggestions.md)
 3. [Accepted suggestions](https://github.com/zestis/Markdown-Email-Templates/blob/master/Accepted%20Suggestions.md)
@@ -28,12 +28,12 @@ Drip Emails:
 17. [Day 4 - Make the most out of Zest](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%204%20-%20Make%20the%20most%20out%20of%20Zest.md)    
 18. [Day 9 - give feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%209%20-%20give%20feedback.md)  
 
-Content Boost Leads:  
+**Content Boost Leads:**  
 19. [Content boost signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/Content%20boost%20signup.md)   
 20. [When content goes live (3rd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20Content%20Goes%20Live%20-%20Third%20Time.md)  
 21. [When a contributor got 20 clicks](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20contributor%20got%2020%20clicks.md)    
 
-Content Boost Operations:  
+**Content Boost Operations:**  
 22. [Campaign created email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Campaign%20created%20email.md)  
 23. [When a boost campaign goes live](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20goes%20live.md)  
 24. [When a boost campaign finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20boost%20campaign%20finished.md)  
@@ -41,7 +41,7 @@ Content Boost Operations:
 26. [Reporting Email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reporting%20Email.md)  
 27. [When a sponsorship finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20sponsorship%20finished.md). 
 
-Other:  
+**Other:**  
 28. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reset%20password%20email.md)  
 29. [Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/Newsletter%20signup.md)  
 30. [Weekly newsletter](https://github.com/zestis/Markdown-Email-Templates/blob/master/Weekly%20Newsletter.md)  
