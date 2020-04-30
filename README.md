@@ -25,6 +25,7 @@ The templates included are:
 17. [Reporting Email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reporting%20Email.md)
 18. [When a sponsorship finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/When%20a%20sponsorship%20finished.md)
 19. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Reset%20password%20email.md)
+20. [Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/Newsletter%20signup.md)
 
 
 
