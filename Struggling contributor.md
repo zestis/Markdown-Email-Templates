@@ -10,8 +10,6 @@ Link to blogs
 
 Help fellow marketers learn by [contributing your content finds here.](http://zest.is/contribute-content?utm_source=email&utm_campaign=help-the-tribe)
 
-![GIF](https://lh4.googleusercontent.com/-k4oI79nCiLmEKy6QVhxw_PUwuo2BF2mNGeG_1jgmdmwQ0oxiAuIMtxIAR7U25t5f3G9tSLhGzkykGBXr_MQsjP6jktbZBWPOVyrG2JaeaLsymzA9RGd2fGkPlbDGAp_SEijfVsI)
-
 You make me proud to be part of this tribe;)
 
 Lemony best,
