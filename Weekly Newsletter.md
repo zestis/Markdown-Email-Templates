@@ -11,7 +11,7 @@ A marketer you follow on Zest shared this quality piece:
 
 -   [How to Reduce Churn Rate with this Simple Strategy](https://click.zest.is/zst.5df13ced56674?source=chrome&w=2IEH9Ojmm5&i=f30mVwtCgKM)
 
-Suggested by [Karolis Vanagas](https://distilled.zest.is/zester/karolis-vanagas), Product Manager at Zest.is. Tags: Strategy
+   Suggested by [Karolis Vanagas](https://distilled.zest.is/zester/karolis-vanagas), Product Manager at Zest.is. Tags: Strategy
     
 
 Have time to catch up on this piece that you saved?
