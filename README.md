@@ -21,7 +21,7 @@ The templates are broken into 5 categories, as displayed below.
 12. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/Mobile%20app%20download.md)
 13. [Friend invite email](https://github.com/zestis/Markdown-Email-Templates/blob/master/Friend%20invite%20email.md)
 
-Drip Emails:  
+**Drip Emails:**  
 14. [Day 0 - extension](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Extension.md)  
 15. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%200%20-%20Mobile%20App.md)  
 16. [Day 1 - Contribution encouragement](https://github.com/zestis/Markdown-Email-Templates/blob/master/Day%201%20-%20Contribution%20Encouragement.md)  
