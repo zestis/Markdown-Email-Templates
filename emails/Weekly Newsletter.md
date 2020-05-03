@@ -1,3 +1,9 @@
+**Email Type:** Weekly newsletter (full example)
+
+**Subject:** Zest newsletter: [First article's title]
+
+**Body:**
+
 Hi John,
 
 Here’s your personalized selection of knowledge-building content fresh from the Zest community:
