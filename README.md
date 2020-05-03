@@ -14,13 +14,13 @@ The templates are broken into 5 categories, as displayed below.
 4. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Reset%20password%20email.md)  
 
 **Sales Triggers & SalesOps Emails**  
-5. [Content boost signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Content%20boost%20signup.md)  
-6. [Invite to Dashboard](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Invite%20to%20Dashboard.md)  
-7. [Campaign created email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Campaign%20created%20email.md)  
-8. [When a boost campaign goes live](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/When%20a%20boost%20campaign%20goes%20live.md)  
-9. [When a boost campaign finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/When%20a%20boost%20campaign%20finished.md)  
-10. [When a sponsorship finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/When%20a%20sponsorship%20finished.md)     
-11. [Reporting Email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Reporting%20Email.md)  
+5. [Confirmation - User signed up to hear more about the product (sales intent)](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Confirmation%20-%20User%20signed%20up%20to%20hear%20more%20about%20the%20product.md)  
+6. [Invitation - Campaign dashboard is ready for the client](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Invitation%20-%20Campaign%20dashboard%20is%20ready%20for%20the%20client.md)  
+7. [Status update - Campaign was created for client](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Status%20update%20-%20Campaign%20was%20created%20for%20client.md)  
+8. [Status update - Campaign goes live](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Status%20update%20-%20Campaign%20goes%20live.md)  
+9. [Status update - Content Boost Campaign is finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Status%20update%20-%20Content%20Boost%20Campaign%20is%20finished.md)  
+10. [Status update - Sponsorship Banners Campaign is finished](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Status%20update%20-%20Sponsorship%20Banners%20Campaign%20is%20finished.md)     
+11. [Status update - Campaign performance update](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Status%20update%20-%20Campaign%20performance%20update.md)  
 
 **User Activity & Accomplishments Triggered Emails - Content Contributors**   
 12. [New suggestions](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/New%20Suggestions.md)  
