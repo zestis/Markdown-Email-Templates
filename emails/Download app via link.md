@@ -1,3 +1,9 @@
+**Email Type:** Download app via link 
+
+**Subject Line:** zest app download
+
+**Body:**
+
 Heya,
 
 I am so. darn. glad. you’re joining Zest 🧠💡
