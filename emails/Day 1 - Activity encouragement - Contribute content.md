@@ -1,3 +1,9 @@
+**Email Type:** Day 1 - Activity encouragement - Contribute content 
+
+**Subject Line:** you here -> 💗
+
+**Body:**
+
 Hey Ben, 👋
 
 The content you see on Zest is suggested by contributors, the beating
