@@ -1,6 +1,6 @@
 **Email Type:** Approval - Newsletter signup
 
-**Subject:** you’re in  
+**Subject Line:** you’re in  
 
 **Body:**
 
