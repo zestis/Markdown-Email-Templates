@@ -1,3 +1,9 @@
+**Email Type:** Activity status update - User content contribution is pending review
+
+**Subject Line:** waiting with you
+
+**Body:**
+
 Hey Ben,
 
 Your contributed content is pending review but rest assured that the
