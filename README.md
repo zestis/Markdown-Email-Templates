@@ -8,7 +8,7 @@ The templates are broken into 5 categories, as displayed below.
 
 
 **Newsletter Sequences**     
-1\. [Approval - Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Approval%20-%20Newsletter%20Signup.md)  
+1\. [Approval - Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Approval%20-%20Newsletter%20signup.md)  
 2. [Daily email intro](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Daily%20email%20intro.md)  
 3. [Weekly newsletter](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Weekly%20Newsletter.md)  
 4. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Reset%20password%20email.md)  
