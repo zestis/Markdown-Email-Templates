@@ -1,3 +1,9 @@
+**Email Type:** Refer a colleague
+
+**Subject Line:** John wants you to join Zest
+
+**Body:**
+
 Hey Ben,
 
 John Smith would like you to join Zest - a place for marketers to
