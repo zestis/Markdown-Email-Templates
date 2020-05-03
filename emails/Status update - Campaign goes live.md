@@ -1,4 +1,4 @@
-**Email Type:** Status update - Campaign goes live.md
+**Email Type:** Status update - Campaign goes live
 
 **Subject:** boost is live
 
