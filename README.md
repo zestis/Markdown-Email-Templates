@@ -43,11 +43,12 @@ The templates are broken into 5 categories, as displayed below.
 27. [ Day 9 - Product feedback - Ask user for their thoughts about their experience](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%209%20-%20Product%20feedback%20-%20Ask%20user%20for%20their%20thoughts%20about%20their%20experience.md)  
 
 **Mobile App Emails**   
-28. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Mobile%20app%20download.md)  
-29. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%200%20-%20Mobile%20App.md).          
+28. [Download app via link](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Download%20app%20via%20link.md)  
+29. [Approval - Mobile app user plan's set up confirmation](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Approval%20-%20Mobile%20app%20user%20plan's%20set%20up%20confirmation.md)
+
 **Churn Users and Referral**  
-30. [Churner feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Churner%20feedback.md)  
-31. [Friend invite email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Friend%20invite%20email.md)  
+30. [Ask feedback from a churned user](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Ask%20feedback%20from%20a%20churned%20user.md)  
+31. [Refer a colleague](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Refer%20a%20colleague.md)  
 
 
 If you have any questions, reach out to us:
