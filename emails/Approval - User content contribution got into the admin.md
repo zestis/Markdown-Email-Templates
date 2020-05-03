@@ -1,3 +1,9 @@
+**Email Type:** Approval - User content contribution got into the admin
+
+**Subject Line:** your contributed content
+
+**Body:**
+
 Hey Ben,
 
 ["Breaking Down Customer Obsession In Business"](https://fourweekmba.com/customer-obsession/?utm_source=zest.is&utm_medium=referral&utm_campaign=content-boost) is now being reviewed.
