@@ -1,3 +1,9 @@
+**Email Type:** Drip email nurturing sequence - User's content contribution is live (1st time)
+
+**Subject Line:** you’re on Zest!
+
+**Body:**
+
 Hey Ben,
 
 You \
