@@ -1,3 +1,9 @@
+**Email Type:** Status update - Content Boost Campaign is finished.md
+
+**Subject:** your zest boost finished
+
+**Body:**
+
 Hey great people of Google,
 
 Your content boost click limit for campaign "Holiday Campaign" has been reached!
