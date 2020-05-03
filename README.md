@@ -37,10 +37,10 @@ The templates are broken into 5 categories, as displayed below.
 23. [Drip email nurturing sequence - User's content contribution is live (3rd time)](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Drip%20email%20nurturing%20sequence%20-%20User's%20content%20contribution%20is%20live%20(3rd%20time).md)    
 
 **Mini Drip Sequence - Chrome New Tab Extension Users**  
-24. [Day 0 - extension](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%200%20-%20Extension.md)  
-25. [Day 1 - Contribution encouragement](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%201%20-%20Contribution%20Encouragement.md)  
-26. [Day 4 - Make the most out of Zest](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%204%20-%20Make%20the%20most%20out%20of%20Zest.md)    
-27. [Day 9 - give feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%209%20-%20give%20feedback.md)  
+24. [Day 0 - Welcome](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%200%20-%20Welcome.md)  
+25. [Day 1 - Activity encouragement - Contribute content](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%201%20-%20Activity%20encouragement%20-%20Contribute%20content.md)  
+26. [Day 4 - Product benefit - Use the Search function](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%204%20-%20Product%20benefit%20-%20Use%20the%20Search%20function.md)    
+27. [ Day 9 - Product feedback - Ask user for their thoughts about their experience](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%209%20-%20Product%20feedback%20-%20Ask%20user%20for%20their%20thoughts%20about%20their%20experience.md)  
 
 **Mobile App Emails**   
 28. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Mobile%20app%20download.md)  
