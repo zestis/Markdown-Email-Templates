@@ -1,3 +1,9 @@
+**Email Type:** Day 4 - Product benefit - Use the Search function
+
+**Subject Line:** you are loved
+
+**Body:**
+
 Hey Ben,
 
 I see that the tribe is so proud of you! You’ve been amazing this week.
