@@ -1,3 +1,9 @@
+**Email Type:** Drip email nurturing sequence - User's content contribution is live (3rd time)
+
+**Subject Line:** hat trick
+
+**Body:**
+
 Hey Ben,
 
 You just keep surprising us, don’t you?
