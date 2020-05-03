@@ -1,3 +1,9 @@
+**Email Type:** Activity status update - User content contribution was rejected
+
+**Subject Line:** so close
+
+**Body:**
+
 Hey Sam,
 
 You made a tremendous effort, I know.
