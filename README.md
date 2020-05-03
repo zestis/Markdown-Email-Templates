@@ -4,7 +4,7 @@ Welcome!
 
 In this repository you will find 31 of Zest's award-winning email templates in Markdown format.
 
-The templates are broken into 5 categories, as displayed below.
+The templates are broken into 6 categories, as displayed below.
 
 
 **Newsletter Sequences**     
