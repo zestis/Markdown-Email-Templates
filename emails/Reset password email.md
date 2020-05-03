@@ -1,6 +1,6 @@
 **Email Type:** Reset password email
 
-**Subject:** Reset your Zest password
+**Subject Line:** Reset your Zest password
 
 **Body:**
 
