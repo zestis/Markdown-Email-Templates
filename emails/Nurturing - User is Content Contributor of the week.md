@@ -1,3 +1,9 @@
+**Email Type:** Nurturing - User is Content Contributor of the week
+
+**Subject Line:** you’re a legend
+
+**Body:**
+
 Heya Idan,
 
 Can you feel it? \
