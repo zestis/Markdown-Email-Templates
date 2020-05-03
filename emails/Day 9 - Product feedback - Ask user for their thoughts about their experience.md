@@ -1,3 +1,9 @@
+**Email Type:** Day 9 - Product feedback - Ask user for their thoughts about their experience 
+
+**Subject Line:** it’s even better
+
+**Body:**
+
 Hey Jesse,
 
 Love what you did on Zest last week, I really do.
