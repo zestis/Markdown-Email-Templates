@@ -1,3 +1,9 @@
+**Email Type:** Activity status update - User content contributions got mixed status (some approved, some rejected)
+
+**Subject Line:** the winners
+
+**Body:**
+
 Hey Ben,
 
 Some of your amazing content contributions made it through Zest’s
