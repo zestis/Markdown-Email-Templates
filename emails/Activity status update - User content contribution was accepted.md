@@ -1,3 +1,9 @@
+**Email Type:** Activity status update - User content contribution was accepted
+
+**Subject Line:** you did it
+
+**Body:**
+
 What’s up, John?
 
 If there was a casino called Zest you would be the jackpot winner 🤗
