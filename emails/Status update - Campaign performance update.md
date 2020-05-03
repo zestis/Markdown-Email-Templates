@@ -1,3 +1,9 @@
+**Email Type:** Status update - Campaign performance update
+
+**Subject:** [Zest stats]: [Campaign_Name] report
+
+**Body:**
+
 Hey Ben,
 
 Here is a quick overview of your current campaign “Holiday Campaign”:
