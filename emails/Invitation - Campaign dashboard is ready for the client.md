@@ -1,6 +1,6 @@
 **Email Type:** Invitation - Campaign dashboard is ready for the client  
 
-**Subject:** [Action Required] Your Premium Campaign Dashboard
+**Subject Line:** [Action Required] Your Premium Campaign Dashboard
 
 **Body:**
 
