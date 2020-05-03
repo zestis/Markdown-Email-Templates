@@ -1,6 +1,6 @@
 **Email Type:** Status update - Campaign was created for client
 
-**Subject:** your campaign has started [look inside]
+**Subject Line:** your campaign has started [look inside]
 
 **Body:**
 
