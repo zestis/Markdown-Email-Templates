@@ -6,6 +6,7 @@ In this repository you will find 31 of Zest's award-winning email templates in M
 
 The templates are broken into 5 categories, as displayed below.
 
+
 **Newsletter Sequences**
 1. [Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Newsletter%20signup.md)  
 2. [Daily email intro](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Daily%20email%20intro.md)  
