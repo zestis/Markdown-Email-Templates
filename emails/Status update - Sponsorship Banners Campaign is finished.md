@@ -1,6 +1,6 @@
 **Email Type:** Status update - Sponsorship Banners Campaign is finished
 
-**Subject:** your zest sponsorship finished
+**Subject Line:** your zest sponsorship finished
 
 **Body:**
 
