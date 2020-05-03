@@ -1,6 +1,6 @@
 **Email Type:** Confirmation - User signed up to hear more about the product (sales intent)
 
-**Subject:** Your content boost request 
+**Subject Line:** Your content boost request 
 
 **Body:**
 
