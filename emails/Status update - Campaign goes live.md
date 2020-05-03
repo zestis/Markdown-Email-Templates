@@ -1,6 +1,6 @@
 **Email Type:** Status update - Campaign goes live
 
-**Subject:** boost is live
+**Subject Line:** boost is live
 
 **Body:**
 
