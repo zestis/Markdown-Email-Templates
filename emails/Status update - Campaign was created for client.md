@@ -1,3 +1,9 @@
+**Email Type:** Status update - Campaign was created for client.md
+
+**Subject:** your campaign has started [look inside]
+
+**Body:**
+
 Hey John,
 
 A new campaign has been created for Google.
