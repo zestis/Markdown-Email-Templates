@@ -1,6 +1,6 @@
 **Email Type:** Daily newsletter (just the intro paragraph as the content is dynamic)
 
-**Subject:** for today 
+**Subject Line:** for today 
 
 **Body:**
 
