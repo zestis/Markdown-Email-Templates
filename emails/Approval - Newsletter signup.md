@@ -1,3 +1,5 @@
+**Email Type:** Approval - Newsletter signup
+
 **Subject:** you’re in  
 
 **Body:**
