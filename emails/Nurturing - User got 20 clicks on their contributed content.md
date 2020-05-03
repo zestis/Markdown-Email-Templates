@@ -1,3 +1,9 @@
+**Email Type:** Nurturing - User got 20 clicks on their contributed content 
+
+**Subject Line:** tweniversary!
+
+**Body:**
+
 Hope you are doing well, Frank,
 
 You just turned 20!
