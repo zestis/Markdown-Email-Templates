@@ -1,3 +1,9 @@
+**Email Type:** Daily newsletter (just the intro paragraph as the content is dynamic)
+
+**Subject:** for today 
+
+**Body:**
+
 Hi Ben,
 
 Today’s content selection is under the following skills you are improving in: eCommerce, Automation and CRO.
