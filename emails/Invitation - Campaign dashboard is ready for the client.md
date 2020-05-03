@@ -1,3 +1,9 @@
+**Email Type:** Invitation - Campaign dashboard is ready for the client  
+
+**Subject:** [Action Required] Your Premium Campaign Dashboard
+
+**Body:**
+
 Hey Ben,
 
 You have been invited to start content boost and sponsorship campaigns
