@@ -1,3 +1,9 @@
+**Email Type:** Approval - Mobile app user plan's set up confirmation
+
+**Subject Line:** your growth plan
+
+**Body:**
+
 Heya Karolis,
 
 So happy you’re joining Zest:)
