@@ -1,3 +1,7 @@
+**Subject:** you’re in  
+
+**Body:**
+
 Hey Max,
 
 Soon you’ll receive a curated Zest newsletter (every Wednesday).
