@@ -1,6 +1,6 @@
 **Email Type:** Status update - Campaign performance update
 
-**Subject:** [Zest stats]: [Campaign_Name] report
+**Subject Line:** [Zest stats]: [Campaign_Name] report
 
 **Body:**
 
