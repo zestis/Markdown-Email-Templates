@@ -1,6 +1,6 @@
 **Email Type:** Status update - Content Boost Campaign is finished
 
-**Subject:** your zest boost finished
+**Subject Line:** your zest boost finished
 
 **Body:**
 
