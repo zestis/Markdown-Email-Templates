@@ -1,3 +1,9 @@
+**Email Type:** Nurturing - User is thanking a fellow content contributor
+
+**Subject Line:** Karolis appreciates your content
+
+**Body:**
+
 Hey Mark,
 
 The content you shared on Zest, [Breaking Down Customer Obsession in Business](https://fourweekmba.com/customer-obsession/?utm_source=zest.is&utm_medium=referral&utm_campaign=content-boost),
