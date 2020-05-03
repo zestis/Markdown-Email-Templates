@@ -1,3 +1,9 @@
+**Email Type:** Day 0 - Welcome
+
+**Subject Line:** make yourself at home 🍋
+
+**Body:**
+
 Heeey Karolis,
 
 Make yourself at home, ‘cause you’re among fellow Zesters now.
