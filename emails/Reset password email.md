@@ -1,3 +1,9 @@
+**Email Type:** Reset password email
+
+**Subject:** Reset your Zest password
+
+**Body:**
+
 Hey Derek,
 
 You've asked for your password to be reset.\
