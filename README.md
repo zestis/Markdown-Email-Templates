@@ -7,8 +7,8 @@ In this repository you will find 31 of Zest's award-winning email templates in M
 The templates are broken into 5 categories, as displayed below.
 
 
-**Newsletter Sequences**
-1. [Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Newsletter%20signup.md)  
+**Newsletter Sequences**     
+1\. [Newsletter signup](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Newsletter%20signup.md)  
 2. [Daily email intro](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Daily%20email%20intro.md)  
 3. [Weekly newsletter](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Weekly%20Newsletter.md)  
 4. [Reset password email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Reset%20password%20email.md)  
@@ -44,7 +44,7 @@ The templates are broken into 5 categories, as displayed below.
 
 **Mobile App Emails**   
 28. [Mobile app download](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Mobile%20app%20download.md)  
-29. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%200%20-%20Mobile%20App.md)    
+29. [Day 0 - mobile app](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Day%200%20-%20Mobile%20App.md).          
 **Churn Users and Referral**  
 30. [Churner feedback](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Churner%20feedback.md)  
 31. [Friend invite email](https://github.com/zestis/Markdown-Email-Templates/blob/master/emails/Friend%20invite%20email.md)  
