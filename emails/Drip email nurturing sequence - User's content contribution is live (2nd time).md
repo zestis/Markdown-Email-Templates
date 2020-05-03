@@ -1,3 +1,9 @@
+**Email Type:** Drip email nurturing sequence - User's content contribution is live (2nd time)
+
+**Subject Line:** Again! You’re on Zest again!!
+
+**Body:**
+
 Hey Yam,
 
 I’m shocked but I must say that I believed in you since you scored it
