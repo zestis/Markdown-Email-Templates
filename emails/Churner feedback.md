@@ -1,3 +1,9 @@
+**Email Type:** Ask feedback from a churned user
+
+**Subject Line:** while you were here
+
+**Body:**
+
 Hey Ben,
 
 It was great to have you with us.
