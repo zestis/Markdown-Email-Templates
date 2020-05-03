@@ -1,3 +1,9 @@
+**Email Type:** Nurturing - Engaging a struggling content contributor
+
+**Subject Line:** you + the tribe
+
+**Body:**
+
 Hey Karolis,
 
 Your amazing content contributions made it through Zest’s quality screening.
