@@ -1,6 +1,6 @@
 **Email Type:** Weekly newsletter (full example)
 
-**Subject:** Zest newsletter: [First article's title]
+**Subject Line:** Zest newsletter: [First article's title]
 
 **Body:**
 
