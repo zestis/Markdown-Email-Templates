@@ -1,3 +1,9 @@
+**Email Type:** Status update - Sponsorship Banners Campaign is finished
+
+**Subject:** your zest sponsorship finished
+
+**Body:**
+
 Hey great people of Google,
 
 Your sponsorship impression limit for campaign "Holiday Campaign" has been reached!
